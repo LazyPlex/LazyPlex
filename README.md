@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @LazyPlex
 - 👀 We Provide Digital marketing Services
 - 🌱 We currently learning working on Automation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Automation
 - 📫 Reach out to us via email Plexlazy@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: We are Lazy
 
 <!---
